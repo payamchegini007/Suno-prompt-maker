@@ -1,0 +1,7 @@
+{
+  "name": "Suno Prompt Architect",
+  "description": "A professional AI-powered music prompt generator optimized for Suno AI, helping creators craft perfect style strings and song descriptions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
